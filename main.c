@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "realme C15 Qualcomm Edition";
-const char* password = "hamza14812";
+const char* ssid = "Your Ssid";
+const char* password = "Your Password";
 
 // Create a WebServer object on port 80
 WebServer server(80);
